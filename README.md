@@ -37,7 +37,7 @@ Sigue los pasos para hacer lo siguiente:
     (cópialo y pégalo en la consola) y presiona la tecla `<enter>`
 5.  Copia el resultado de la consola y pégalo en este documento, justo
     dentro de las siguientes tildes diacríticas (borra los puntos
-    suspensivos pero no las comillas): `...`
+    suspensivos pero no las comillas): `[1] 989 550 704 324 184`
 6.  Ve a la pestaña Git y crea el `Commit` (sigue la guía).
 7.  Luego haz `Push` (sigue la guía).
 8.  Verifica que los cambios se actualizaron en el repo de GitHub.
